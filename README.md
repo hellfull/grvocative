@@ -39,8 +39,13 @@ $nickName = $introduce->makeNickName(somefirstname,somelastname);
 // for somefirstname = "ΤΥΧΑΙΟΣ", somelastname = "ΤΥΧΑΙΪΔΗΣ"  
 // will output "TYXAIE ΤΥΧΑΙΪΔΗ"
  
-You can get all attributes in array with
+You can get all attributes in object with
+
+attributes gender, title, nickName doing :
 
 $vocatives = $introduce->vocatives(somefirstname, somelastname);
+
+echo $vocatives->title . " " . $vocatives->nickName;
+// "ΚΥΡΙΕ ΤΥΧΑΙΕ ΤΥΧΑΙΟΠΟΥΛΕ"
 
 
