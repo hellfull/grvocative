@@ -46,6 +46,6 @@ attributes gender, title, nickName doing :
 $vocatives = $introduce->vocatives(somefirstname, somelastname);
 
 echo $vocatives->title . " " . $vocatives->nickName;
-// "ΚΥΡΙΕ ΤΥΧΑΙΕ ΤΥΧΑΙΟΠΟΥΛΕ"
+// "ΚΥΡΙΕ ΤΥΧΑΙΕ ΤΥΧΑΙΟΠΟΥΛΕ" 
 
 
