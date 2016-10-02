@@ -12,5 +12,10 @@
             "email": "fylactosdev@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Hellfull\\Grvocative\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
