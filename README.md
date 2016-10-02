@@ -3,6 +3,12 @@ STIL GETTING THIS
 Make gender , title , vocative names for greek names 
 
 Use this to get gender (Male / Female) , a title like (ΚΥΡΙΕ / ΚΥΡΙΑ) an a vocative type (ΓΕΩΡΓΙΕ ΠΑΠΑΔΟΠΟΥΛΕ) .
+#COMPOSER INSTALL
+Hellfull\Grvocative\GrvocativeServiceProvider::class
+
+composer require hellfull/grvocative
+
+composer dump-autoload
 
 # MANUAL INSTALL
 
