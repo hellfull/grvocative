@@ -13,11 +13,10 @@ class Introduce {
         
         //$encoding = detectEncoding($fname);
         
-        
         $this->gender = $this->getGender($fname);
         $gender = $this->gender;
         
-        $this->title = $this->makeTitle($gender);
+        $this->title = $this->makeTitle($fname);
         
         $this->nickName = $this->makeNickName($fname, $lname, $gender);
         
