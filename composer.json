@@ -8,6 +8,7 @@
     "require-dev": {
         "laravel/laravel": "^5.2"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "hellfull",
