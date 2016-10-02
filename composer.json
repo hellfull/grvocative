@@ -1,0 +1,18 @@
+{
+    "name": "hellfull/grvocative",
+    "description": "make gender,title,vocative type for greeknames",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "^5.3"
+    },
+    "require-dev": {
+        "laravel/laravel": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "hellfull",
+            "email": "fylactosdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
