@@ -9,9 +9,6 @@ Hellfull\Grvocative\GrvocativeServiceProvider::class
 
 # WITH COMPOSER
 
-# add to require-dev {
-"hellfull/grvocative": "*"
-
 run composer require --dev hellfull/grvocative "*"
         
 
