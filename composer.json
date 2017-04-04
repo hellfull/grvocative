@@ -3,7 +3,7 @@
     "description": "make gender,title,vocative type for greeknames",
     "type": "library",
     "require": {
-        "illuminate/support": "5.2.*|5.3.*"
+        "illuminate/support": "5.2.*|5.3.*|5.4.*"
     },
     "license": "MIT",
     "authors": [
