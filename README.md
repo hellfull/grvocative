@@ -1,6 +1,6 @@
 # grvocative
-STIL GETTING THIS
-Make gender , title , vocative names for greek names
+Κλητική κλήση Ελληνικών Ονομάτων και Επωνύμων για αλληλογραφία. 
+Make gender , title , vocative names for Greek names . Used for letters
 
 # Installation
 
