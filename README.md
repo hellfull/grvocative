@@ -1,5 +1,5 @@
 # grvocative
-Κλητική κλήση Ελληνικών Ονομάτων και Επωνύμων για αλληλογραφία. 
+ΚλητικήΕλληνικών Ονομάτων και Επωνύμων για αλληλογραφία. 
 Make gender , title , vocative names for Greek names . Used for letters
 
 # Installation
